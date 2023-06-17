@@ -17,7 +17,4 @@ Favoriye eklenen müzikler favoriler ekranında gösterilir ve oradan istenildi�
     <img src="https://github.com/oykuyildirim/musicplayer/assets/37236494/67d15054-8137-42df-b8a6-8749244db418" width="200" style="max-width:100%;"></a>
   <a href="https://github.com/oykuyildirim/musicplayer/assets/37236494/6cc14932-2590-4970-bb54-f033ecb322db" target="_blank">
     <img src="https://github.com/oykuyildirim/musicplayer/assets/37236494/6cc14932-2590-4970-bb54-f033ecb322db" width="200" style="max-width:100%;"></a>
-![HomeMusic2](https://github.com/oykuyildirim/musicplayer/assets/37236494/c422c60a-864b-467e-bb5b-9e92386f707b)
-![Music Player](https://github.com/oykuyildirim/musicplayer/assets/37236494/8318b81d-f614-4e4b-85dc-59dacd06ff1d)
-![Music Player2](https://github.com/oykuyildirim/musicplayer/assets/37236494/67d15054-8137-42df-b8a6-8749244db418)
-![FavorilerMusic](https://github.com/oykuyildirim/musicplayer/assets/37236494/6cc14932-2590-4970-bb54-f033ecb322db)
+
