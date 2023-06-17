@@ -4,7 +4,7 @@ Bu işlemden sonra artık firebase üzerinden veriler alınıp expandable listvi
 Favoriye eklenen müzikler favoriler ekranında gösterilir ve oradan istenildiği taktirde müzik dinlenebilir.
  ### Uygulamada Kullanılan Özellikler:
   <br>Name | Version |</br>
-   Kotlin | 1.8.10 | 
+   Kotlin | 1.7.20 | 
   <br>Firebase Database | 20.2.2 |</br>
   Retrofit  | 2.9.0 |
   
