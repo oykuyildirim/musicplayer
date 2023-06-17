@@ -5,7 +5,7 @@ Favoriye eklenen müzikler favoriler ekranında gösterilir ve oradan istenildi�
  ### Uygulamada Kullanılan Özellikler:
   <br>Name | Version |</br>
    Kotlin | 1.8.10 | 
-  <br>Firebase Database | 20.2.2|</br>
+  <br>Firebase Database | 20.2.2 |</br>
   Retrofit  | 2.9.0 |
   
 # Project Display Image <p> 
