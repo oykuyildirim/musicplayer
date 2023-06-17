@@ -9,12 +9,12 @@ Favoriye eklenen müzikler favoriler ekranında gösterilir ve oradan istenildi�
   Retrofit  | 2.9.0 |
   
 # Project Display Image <p> 
-  <a href="https://github.com/oykuyildirim/musicplayer/assets/37236494/c422c60a-864b-467e-bb5b-9e92386f707b" >
-    <img src="https://github.com/oykuyildirim/musicplayer/assets/37236494/c422c60a-864b-467e-bb5b-9e92386f707b" width="200" style="max-width:100%;"></a>
-   <a href="https://github.com/oykuyildirim/musicplayer/assets/37236494/8318b81d-f614-4e4b-85dc-59dacd06ff1d" target="_blank">
-    <img src="https://github.com/oykuyildirim/musicplayer/assets/37236494/8318b81d-f614-4e4b-85dc-59dacd06ff1d" width="200" style="max-width:100%;"></a>
-<a href="https://github.com/oykuyildirim/musicplayer/assets/37236494/67d15054-8137-42df-b8a6-8749244db418" target="_blank">
-    <img src="https://github.com/oykuyildirim/musicplayer/assets/37236494/67d15054-8137-42df-b8a6-8749244db418" width="200" style="max-width:100%;"></a>
-  <a href="https://github.com/oykuyildirim/musicplayer/assets/37236494/6cc14932-2590-4970-bb54-f033ecb322db" target="_blank">
-    <img src="https://github.com/oykuyildirim/musicplayer/assets/37236494/6cc14932-2590-4970-bb54-f033ecb322db" width="200" style="max-width:100%;"></a>
-
+  <a href="https://github.com/oykuyildirim/musicplayer/assets/37236494/36c88dda-e93b-412b-8e4b-c9c725c90cbf" >
+    <img src="https://github.com/oykuyildirim/musicplayer/assets/37236494/36c88dda-e93b-412b-8e4b-c9c725c90cbf" width="200" style="max-width:100%;"></a>
+    <a href="https://github.com/oykuyildirim/musicplayer/assets/37236494/cf6872d0-c1f0-444d-a7bb-f01da0babae2" >
+    <img src="https://github.com/oykuyildirim/musicplayer/assets/37236494/cf6872d0-c1f0-444d-a7bb-f01da0babae2" width="200" style="max-width:100%;"></a>
+    <a href="https://github.com/oykuyildirim/musicplayer/assets/37236494/ef210452-6404-4854-aae7-13d4fdbf4650" >
+    <img src="https://github.com/oykuyildirim/musicplayer/assets/37236494/ef210452-6404-4854-aae7-13d4fdbf4650" width="200" style="max-width:100%;"></a>
+     <a href="https://github.com/oykuyildirim/musicplayer/assets/37236494/79c24750-a091-483a-82b6-0d8dde0fd8b5" >
+    <img src="https://github.com/oykuyildirim/musicplayer/assets/37236494/79c24750-a091-483a-82b6-0d8dde0fd8b5" width="200" style="max-width:100%;"></a>
+  
