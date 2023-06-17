@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MUSIC PLAYER</string>
+    <string name="titleName">"title"</string>
+    <string name="favorites">FAVORITES</string>
+</resources>
