@@ -5,7 +5,9 @@ Favoriye eklenen müzikler favoriler ekranında gösterilir ve oradan istenildi�
  ### Uygulamada Kullanılan Özellikler:
   <br>Name | Version |</br>
    Kotlin | 1.8.10 | 
-  <br> Retrofit  | 2.9.0 |</br></p> 
+  <br>Firebase Database | 20.2.2|</br>
+  Retrofit  | 2.9.0 |
+  
 # Project Display Image <p> 
   <a href="https://github.com/oykuyildirim/musicplayer/assets/37236494/c422c60a-864b-467e-bb5b-9e92386f707b" >
     <img src="https://github.com/oykuyildirim/musicplayer/assets/37236494/c422c60a-864b-467e-bb5b-9e92386f707b" width="200" style="max-width:100%;"></a>
